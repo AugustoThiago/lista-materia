@@ -21,7 +21,7 @@ export const ListData = [
     id: 3,
     nome: 'Projeto de Trabalho de Graduação em Sistemas para Internet I',
     dia: 'Sábado',
-    hora: '19h00',
+    hora: '11h00',
     dados: 'TTG401A -MAURICIO CONCEIÇÃO MARIO',
     ementa: 'Conceito de portfólio no âmbito da educação superior. Planejamento e organização de portfólios',
     objetivos: 'Apoiar o estudante na organização de seu portfólio de projetos desenvolvidos ao longo do curso. Objetivos específicos. Os estudantes devem ser capazes de organizar o portfólio individual dos projetos desenvolvidos ao longo do curso. Devem ser capazes de redigir resumos, artigos e relatórios técnicos dos trabalhos em linguagem apropriada e na forma culta. Deve demonstrar independência de pensamento e autonomia para pesquisa'
